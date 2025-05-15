@@ -1,57 +1,32 @@
-<h1 align="center">FellNexus</h1>
-<p align="center">
-  <i>Your AI-enhanced automation companion.</i><br>
-  <b>Crafted with precision. Built for performance.</b>
-</p>
+# Hi there, I'm FellNexus 👋
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/FellNexus?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/FellNexus?style=social" />
-</p>
+I'm a self-taught developer who builds bots, tools, and automation systems.  
+I love exploring APIs, crafting smart bots, and pushing boundaries with code.
 
 ---
 
-## About
-
-**FellNexus** is a personal collection of AI-powered bots, tools, and creative automations.  
-From WhatsApp automation to experimental AI interfaces — everything is open for exploration.
-
----
-
-## Features
-
-- WhatsApp Bots (Baileys & Multi-device)
-- Telegram Scraper & Sticker Tools
-- AI Chat Response Systems (LuminAI, OpenAI)
-- Auto-downloader (YouTube, TikTok, etc)
-- Custom UI Image Gen (Canvas, Jimp, etc)
-- Experimental Projects & Mini Scripts
+## 🚀 Projects & Focus
+- **FellNexus Bot** – a multifunctional WhatsApp bot for fun, productivity, and automation.
+- **Sticker Tools** – convert, compress, and create Telegram/WhatsApp stickers.
+- **Scraper Modules** – high-speed API-free data collectors for public platforms.
+- **Custom AI Chat** – context-aware conversational AI with Whisper + TTS.
 
 ---
 
-## Tech Stack
-
-- Node.js
-- ESModules
-- Baileys WhatsApp API
-- Axios / Cheerio / Puppeteer
-- Canvas / Jimp
-- LuminAI / ElevenLabs / GPT APIs
+## 🛠️ Tech Stack
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
- Contact
-Feel free to connect with me:
-WhatsApp: +31657851239
-Instagram: @felnexus_19
-GitHub: github.com/FellNexus
+## 📫 Let's Connect
+- Telegram: [@fellnexus](https://t.me/fellnexus)
+- WhatsApp: `wa.me/31657851239`
+- Instagram: [@felnexus_19](https://instagram.com/felnexus_19)
 
-## Structure
+---
 
-```bash
-├── lib/                # Utility functions & tools
-├── plugins/            # Bot commands (modular)
-├── media/              # Images, stickers, and static assets
-├── temp/               # Temporary files
-├── config/             # Settings and environment configs
-└── main.js             # Bot entry point
+> _"Automation isn’t magic. It's just logic — built smart."_  
+> — *FellNexus*
