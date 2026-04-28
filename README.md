@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386135041_coxi299r.jpg" width="100%" alt="FellNexus Banner" />
-
 <br/><br/>
 
 <!-- PROFILE IMAGE -->
-<img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386113700_a5h7f3lj.png" width="140" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.5);" alt="FellNexus Profile" />
+<img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386113700_a5h7f3lj.png" width="160" style="border-radius: 50%; box-shadow: 0 0 25px rgba(247, 223, 30, 0.4);" alt="FellNexus Profile" />
 
-<br/>
+<br/><br/>
 
 <!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=FELLNEXUS+🪐;CREATING+THE+FUTURE+🤖;BORN+JANUARY+7th+🎂" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=FELLNEXUS+🪐;CREATING+THE+FUTURE+🤖;BORN+JANUARY+7th+🎂" alt="Typing SVG" />
 
 <br/>
 
