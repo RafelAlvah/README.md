@@ -1,135 +1,129 @@
 <div align="center">
 
-  <!-- HEADER BANNER -->
-  <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386113700_a5h7f3lj.png" width="100%" alt="Header Banner" style="border-radius: 14px;" />
+  <!-- BANNER -->
+  <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386113700_a5h7f3lj.png" width="100%" alt="M. Rafel Pratama" style="border-radius: 8px;" />
 
   <br/><br/>
 
-  <!-- AVATAR & NAME -->
-  <table>
-    <tr>
-      <td align="center" width="160">
-        <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386135041_coxi299r.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover;" alt="M. Rafel Pratama" />
-      </td>
-      <td valign="middle">
-        <h1>Hi there, I'm <a href="https://www.rafel-nx.my.id">M. Rafel Pratama</a> 👋</h1>
-        <h3><code>Bot Architect & Automation Engineer</code> • <i>Known as FellNexus</i></h3>
-        <p>
-          <a href="https://www.rafel-nx.my.id"><img src="https://img.shields.io/badge/🌐_Website-rafel--nx.my.id-000000?style=for-the-badge&logo=googlechrome&logoColor=F7DF1E" /></a>
-          <a href="https://wa.me/6287737937323"><img src="https://img.shields.io/badge/💬_Hire_Me-Contact-F7DF1E?style=for-the-badge&logoColor=000000" /></a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <!-- AVATAR -->
+  <a href="https://www.rafel-nx.my.id">
+    <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386135041_coxi299r.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #F7DF1E;" alt="M. Rafel Pratama" />
+  </a>
+
+  <br/><br/>
+
+  <h1>M. Rafel Pratama</h1>
+  <p><b>Systems Architect & Automation Engineer</b> &nbsp;|&nbsp; <i>FellNexus</i></p>
+  <p><a href="https://www.rafel-nx.my.id"><b>https://www.rafel-nx.my.id</b></a></p>
 
   <br/>
 
-  <!-- TYPING SVG BADGE -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=%3E+Engineering+smart+bots+%26+automation+systems;%3E+Self-taught+developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;%3E+Building+the+future+with+clean+code+%E2%9A%A1" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-## 📌 Executive Summary
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 Who I Am</h3>
-      <ul>
-        <li><b>Full Name:</b> M. Rafel Pratama (FellNexus)</li>
-        <li><b>Role:</b> Self-Taught Automation Developer</li>
-        <li><b>Location:</b> 📍 Indonesia</li>
-        <li><b>Birthday & Zodiac:</b> 🎂 Jan 7th • ♑ Capricorn</li>
-        <li><b>Portfolio:</b> 🌐 <a href="https://www.rafel-nx.my.id">www.rafel-nx.my.id</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Core Focus</h3>
-      <ul>
-        <li>⚡ <b>WhatsApp & Telegram Bots:</b> Intelligent workflow systems</li>
-        <li>🕷️ <b>Web Scraping & APIs:</b> High performance media & data extractors</li>
-        <li>🗄️ <b>Database Management:</b> MongoDB & scalable cloud storage</li>
-        <li>🎨 <b>UI/UX Design:</b> Modern interfaces designed in Figma</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-| Ecosystem | Tools & Technologies |
-| :--- | :--- |
-| **Languages & Runtimes** | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript" /> &nbsp; <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nodejs.svg" width="32" height="32" alt="Node.js" title="Node.js" /> |
-| **Database & Cloud** | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.svg" width="32" height="32" alt="MongoDB" title="MongoDB" /> &nbsp; <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vercel.svg" width="32" height="32" alt="Vercel" title="Vercel" /> |
-| **UI & Prototyping** | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/figma.svg" width="32" height="32" alt="Figma" title="Figma" /> |
-| **Automation & Protocols** | `REST APIs` • `Puppeteer` • `Baileys` • `Telegraf` • `Web Scraping` |
-
-</div>
-
-<br/>
-
-## 📊 Analytics & Activity
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=Nex-Core&show_icons=true&theme=dark&bg_color=0d1117&title_color=f7df1e&icon_color=f7df1e&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Core&layout=compact&theme=dark&bg_color=0d1117&title_color=f7df1e&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nex-Core&theme=dark&background=0d1117&title=f7df1e&sideicon=f7df1e&currStreakLabel=f7df1e&fire=f7df1e&dates=c9d1d9&ring=f7df1e&border=30363d&border_radius=8" alt="GitHub Streak" width="98%" />
-
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
+  <!-- CTA BADGES -->
   <a href="https://www.rafel-nx.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-rafel--nx.my.id-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=000" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-rafel--nx.my.id-111111?style=for-the-badge&logo=googlechrome&logoColor=F7DF1E" />
   </a>
   &nbsp;
   <a href="https://wa.me/6287737937323" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/CONTACT-DIRECT-F7DF1E?style=for-the-badge&logoColor=000000" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+### Overview
+
+Software engineer specializing in event-driven architecture, automated data extraction, and bot infrastructure. Focused on building high-performance Node.js runtime environments, asynchronous scraping pipelines, and scalable database schemas.
+
+* **Specialization:** Bot Engineering, Process Automation, Reverse Engineering & Data Extraction
+* **Core Stack:** Node.js, JavaScript (ESNext), MongoDB, Express.js, Microservices
+* **Location:** Indonesia
+* **Portfolio:** [www.rafel-nx.my.id](https://www.rafel-nx.my.id)
+
+---
+
+### Technical Stack & Tooling
+
+#### Languages & Runtimes
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frameworks & Automation Libraries
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### Databases & Infrastructure
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### Architecture & Engineering Focus
+
+```
++--------------------------------------------------------------------+
+|                         System Pipeline                            |
++--------------------------------------------------------------------+
+|  [ Ingress ]         --> WhatsApp Webhook / Telegram Bot API       |
+|  [ Core Runtime ]    --> Node.js Event Loop / Asynchronous Tasks   |
+|  [ Data Engine ]     --> Headless Browser / Web Scraping Pipeline  |
+|  [ Persistence ]     --> MongoDB Distributed Cluster & Caching     |
++--------------------------------------------------------------------+
+```
+
+* **Asynchronous Bot Systems:** High-throughput event handlers engineered for low-latency messaging platforms.
+* **Automated Data Pipelines:** Resilient web scraping modules handling dynamic DOM rendering and structured data extraction.
+* **RESTful Microservices:** Clean, decoupled API endpoints designed for high availability and maintainability.
+
+---
+
+### Metrics & Activity
+
+<div align="center">
+  <a href="https://github.com/Nex-Core">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nex-Core&show_icons=true&theme=dark&bg_color=0d1117&title_color=f7df1e&icon_color=f7df1e&text_color=c9d1d9&border_color=30363d&border_radius=6" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Core&layout=compact&theme=dark&bg_color=0d1117&title_color=f7df1e&text_color=c9d1d9&border_color=30363d&border_radius=6" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+### Network & Contact
+
+<div align="center">
+  <a href="https://www.rafel-nx.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-rafel--nx.my.id-000000?style=flat-square&logo=googlechrome&logoColor=F7DF1E" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/6287737937323" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://t.me/NexCore01" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.tiktok.com/@fellchanaio" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=flat-square&logo=flat-square&logo=tiktok&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/rafel_pratama21?igsh=MWFpd2NubG1keDZleg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
+</div>
 
-  <br/><br/>
+<br/>
 
-  <blockquote>
-    <i>"Logic is just the beginning of wisdom, not the end."</i><br/>
-    <b>— M. Rafel Pratama</b>
-  </blockquote>
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Nex-Core&color=f7df1e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
+<div align="center">
+  <sub>Copyright &copy; M. Rafel Pratama (FellNexus). All rights reserved.</sub>
 </div>
