@@ -87,22 +87,6 @@ Software engineer specializing in event-driven architecture, automated data extr
 
 ---
 
-### Metrics & Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Nex-Core&show_icons=true&theme=dark&title_color=F7DF1E&icon_color=F7DF1E&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&hide_border=false" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Core&layout=compact&theme=dark&title_color=F7DF1E&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&hide_border=false" width="48%" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Nex-Core&color=f7df1e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
----
-
 ### Network & Contact
 
 <div align="center">
@@ -126,6 +110,10 @@ Software engineer specializing in event-driven architecture, automated data extr
   <a href="https://www.instagram.com/rafel_pratama21?igsh=MWFpd2NubG1keDZleg==" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Nex-Core&color=f7df1e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
