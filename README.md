@@ -1,124 +1,135 @@
 <div align="center">
 
-  <!-- BANNER -->
-  <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386113700_a5h7f3lj.png" width="100%" alt="M. Rafel Pratama Banner" style="border-radius: 10px;" />
+  <!-- HEADER BANNER -->
+  <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386113700_a5h7f3lj.png" width="100%" alt="Header Banner" style="border-radius: 14px;" />
 
   <br/><br/>
 
-  <!-- PROFILE IMAGE WITH NEON GLOW -->
-  <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386135041_coxi299r.jpg" width="160" style="border-radius: 50%; box-shadow: 0 0 25px rgba(247, 223, 30, 0.6);" alt="M. Rafel Pratama Profile" />
+  <!-- AVATAR & NAME -->
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386135041_coxi299r.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover;" alt="M. Rafel Pratama" />
+      </td>
+      <td valign="middle">
+        <h1>Hi there, I'm <a href="https://www.rafel-nx.my.id">M. Rafel Pratama</a> 👋</h1>
+        <h3><code>Bot Architect & Automation Engineer</code> • <i>Known as FellNexus</i></h3>
+        <p>
+          <a href="https://www.rafel-nx.my.id"><img src="https://img.shields.io/badge/🌐_Website-rafel--nx.my.id-000000?style=for-the-badge&logo=googlechrome&logoColor=F7DF1E" /></a>
+          <a href="https://wa.me/6287737937323"><img src="https://img.shields.io/badge/💬_Hire_Me-Contact-F7DF1E?style=for-the-badge&logoColor=000000" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
+  <br/>
 
-  <!-- TYPING EFFECT -->
-  <a href="https://www.rafel-nx.my.id" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=F7DF1E&center=true&vCenter=true&width=550&lines=M.+RAFEL+PRATAMA+🚀;AKA+FELLNEXUS+🪐;BOT+%26+AUTOMATION+ARCHITECT+🤖;CREATING+THE+FUTURE+WITH+CODE+💻" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- FEATURED PORTFOLIO BUTTON -->
-  <a href="https://www.rafel-nx.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-rafel--nx.my.id-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=000" alt="Website Portfolio" />
-  </a>
-
-  <br/><br/>
-
-  <!-- QUICK TAGS / STATUS -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Bot_%26_Automation-000000?style=flat-square&logo=probot&logoColor=F7DF1E" /> &nbsp;
-    <img src="https://img.shields.io/badge/Location-Indonesia_🇮🇩-000000?style=flat-square&logo=googlemaps&logoColor=F7DF1E" /> &nbsp;
-    <img src="https://img.shields.io/badge/Zodiac-Capricorn_♑-000000?style=flat-square&logo=sparkles&logoColor=F7DF1E" />
-  </p>
+  <!-- TYPING SVG BADGE -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=%3E+Engineering+smart+bots+%26+automation+systems;%3E+Self-taught+developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;%3E+Building+the+future+with+clean+code+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
----
+## 📌 Executive Summary
 
-### ⚡ ABOUT ME // `whoami`
-
-```javascript
-const developer = {
-  name: "M. Rafel Pratama",
-  alias: "FellNexus",
-  role: "Self-Taught Developer & Automation Specialist",
-  born: "January 7th (Capricorn ♑)",
-  location: "Indonesia 🇮🇩",
-  quote: "Logic is just the beginning of wisdom, not the end.",
-  specialization: ["Smart WhatsApp & Telegram Bots", "Workflow Automation", "API Integration"],
-  portfolio: "https://www.rafel-nx.my.id"
-};
-```
-
-I'm a passionate developer focused on engineering smart bots, scrapers, and seamless automation systems. I believe code is the ultimate lever to automate repetitive tasks and shape the future of productivity.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 Who I Am</h3>
+      <ul>
+        <li><b>Full Name:</b> M. Rafel Pratama (FellNexus)</li>
+        <li><b>Role:</b> Self-Taught Automation Developer</li>
+        <li><b>Location:</b> 📍 Indonesia</li>
+        <li><b>Birthday & Zodiac:</b> 🎂 Jan 7th • ♑ Capricorn</li>
+        <li><b>Portfolio:</b> 🌐 <a href="https://www.rafel-nx.my.id">www.rafel-nx.my.id</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Focus</h3>
+      <ul>
+        <li>⚡ <b>WhatsApp & Telegram Bots:</b> Intelligent workflow systems</li>
+        <li>🕷️ <b>Web Scraping & APIs:</b> High performance media & data extractors</li>
+        <li>🗄️ <b>Database Management:</b> MongoDB & scalable cloud storage</li>
+        <li>🎨 <b>UI/UX Design:</b> Modern interfaces designed in Figma</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
----
-
-### 🛠️ TECH STACK & TOOLS
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-| Domain | Stack & Technologies |
+| Ecosystem | Tools & Technologies |
 | :--- | :--- |
-| **Core & Runtime** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| **Database & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-| **Design & UI** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| **Automation** | ![WhatsApp Bot](https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![Web Scraping](https://img.shields.io/badge/Scraping-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **Languages & Runtimes** | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript" /> &nbsp; <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nodejs.svg" width="32" height="32" alt="Node.js" title="Node.js" /> |
+| **Database & Cloud** | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.svg" width="32" height="32" alt="MongoDB" title="MongoDB" /> &nbsp; <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vercel.svg" width="32" height="32" alt="Vercel" title="Vercel" /> |
+| **UI & Prototyping** | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/figma.svg" width="32" height="32" alt="Figma" title="Figma" /> |
+| **Automation & Protocols** | `REST APIs` • `Puppeteer` • `Baileys` • `Telegraf` • `Web Scraping` |
 
 </div>
 
 <br/>
 
----
-
-### 📊 GITHUB METRICS
+## 📊 Analytics & Activity
 
 <div align="center">
 
-  <a href="https://github.com/Nex-Core">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nex-Core&show_icons=true&theme=dark&bg_color=0d1117&title_color=f7df1e&icon_color=f7df1e&text_color=c9d1d9&border_color=f7df1e&hide_border=false" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Core&layout=compact&theme=dark&bg_color=0d1117&title_color=f7df1e&text_color=c9d1d9&border_color=f7df1e&hide_border=false" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="175" src="https://github-readme-stats.vercel.app/api?username=Nex-Core&show_icons=true&theme=dark&bg_color=0d1117&title_color=f7df1e&icon_color=f7df1e&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Core&layout=compact&theme=dark&bg_color=0d1117&title_color=f7df1e&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nex-Core&theme=dark&background=0d1117&title=f7df1e&sideicon=f7df1e&currStreakLabel=f7df1e&fire=f7df1e&dates=c9d1d9&ring=f7df1e&border=30363d&border_radius=8" alt="GitHub Streak" width="98%" />
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.rafel-nx.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Website-rafel--nx.my.id-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=000" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/6287737937323" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/NexCore01" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@fellchanaio" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/rafel_pratama21?igsh=MWFpd2NubG1keDZleg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-</div>
+  <br/><br/>
 
-<br/>
+  <blockquote>
+    <i>"Logic is just the beginning of wisdom, not the end."</i><br/>
+    <b>— M. Rafel Pratama</b>
+  </blockquote>
 
----
+  <br/>
 
-### 🌐 SOCIAL HUB & CONTACT
-
-<div align="center">
-
-<a href="https://www.rafel-nx.my.id" target="_blank">
-  <img src="https://img.shields.io/badge/Website-rafel--nx.my.id-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=000" />
-</a>
-<br/><br/>
-
-<a href="https://wa.me/6287737937323" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-</a> &nbsp;
-<a href="https://t.me/NexCore01" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</a> &nbsp;
-<a href="https://www.tiktok.com/@fellchanaio" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" />
-</a> &nbsp;
-<a href="https://www.instagram.com/rafel_pratama21?igsh=MWFpd2NubG1keDZleg==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-
-<br/><br/>
-
-*"Logic is just the beginning of wisdom, not the end."*  
-**— M. Rafel Pratama**
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nex-Core&color=f7df1e&style=flat-square&label=PROFILE+VIEWS)
+  <img src="https://komarev.com/ghpvc/?username=Nex-Core&color=f7df1e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
