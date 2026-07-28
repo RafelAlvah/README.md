@@ -7,13 +7,13 @@
 
   <!-- AVATAR -->
   <a href="https://www.rafel-nx.my.id">
-    <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386135041_coxi299r.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #F7DF1E;" alt="M. Rafel Pratama" />
+    <img src="https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1777386135041_coxi299r.jpg" width="140" height="140" style="border-radius: 50%; border: 3px solid #F7DF1E;" alt="M. Rafel Pratama" />
   </a>
 
   <br/><br/>
 
   <h1>M. Rafel Pratama</h1>
-  <p><b>Systems Architect & Automation Engineer</b> &nbsp;|&nbsp; <i>FellNexus</i></p>
+  <p><b>Systems Architect & Automation Engineer</b></p>
   <p><a href="https://www.rafel-nx.my.id"><b>https://www.rafel-nx.my.id</b></a></p>
 
   <br/>
@@ -90,10 +90,15 @@ Software engineer specializing in event-driven architecture, automated data extr
 ### Metrics & Activity
 
 <div align="center">
-  <a href="https://github.com/Nex-Core">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nex-Core&show_icons=true&theme=dark&bg_color=0d1117&title_color=f7df1e&icon_color=f7df1e&text_color=c9d1d9&border_color=30363d&border_radius=6" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Core&layout=compact&theme=dark&bg_color=0d1117&title_color=f7df1e&text_color=c9d1d9&border_color=30363d&border_radius=6" alt="Top Languages" />
-  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Nex-Core&show_icons=true&theme=dark&title_color=F7DF1E&icon_color=F7DF1E&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&hide_border=false" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Core&layout=compact&theme=dark&title_color=F7DF1E&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&hide_border=false" width="48%" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Nex-Core&color=f7df1e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 ---
@@ -101,6 +106,7 @@ Software engineer specializing in event-driven architecture, automated data extr
 ### Network & Contact
 
 <div align="center">
+
   <a href="https://www.rafel-nx.my.id" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-rafel--nx.my.id-000000?style=flat-square&logo=googlechrome&logoColor=F7DF1E" />
   </a>
@@ -114,16 +120,17 @@ Software engineer specializing in event-driven architecture, automated data extr
   </a>
   &nbsp;
   <a href="https://www.tiktok.com/@fellchanaio" target="_blank">
-    <img src="https://img.shields.io/badge/TIKTOK-000000?style=flat-square&logo=flat-square&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=flat-square&logo=tiktok&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/rafel_pratama21?igsh=MWFpd2NubG1keDZleg==" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Copyright &copy; M. Rafel Pratama (FellNexus). All rights reserved.</sub>
+  <sub>Copyright &copy; M. Rafel Pratama. All rights reserved.</sub>
 </div>
